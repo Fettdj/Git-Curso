@@ -7,4 +7,6 @@ Anita Platzi es una persona que contribuye a este proyecto open source y nació 
 Mañana nos enfocaremos en su vida laboral
 
 Prueba Main 1
-Experimiento
+
+Experimiento 2
+Experimento 3
